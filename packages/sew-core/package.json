@@ -1,15 +1,12 @@
 {
   "name": "@sewjs/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SewJs Core",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SewJs/SewJs/tree/master/packages/sew-core"
-  },
+  "repository": "https://github.com/SewJs/SewJs/tree/master/packages/sew-core",
   "author": "Dominic Vonk <dominic@vonk.io>",
   "license": "MIT"
 }
