@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sewjs/sewjs/tree/master/packages/sewjs-core"
+    "url": "https://github.com/SewJs/SewJs/tree/master/packages/sew-core"
   },
   "author": "Dominic Vonk <dominic@vonk.io>",
   "license": "MIT"
