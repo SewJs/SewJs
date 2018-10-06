@@ -6,8 +6,17 @@ npm install @sewjs/core
 ```
 
 ## Usage
+
+### NPM
 ```js
 const SewJs = require('@sewjs/core');
+```
+
+\- or -
+
+### In Browser
+```html
+<script src="https://unpkg.com/@sewjs/core"></script>
 ```
 
 ## API reference

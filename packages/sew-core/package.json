@@ -1,8 +1,11 @@
 {
   "name": "@sewjs/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SewJs Core",
   "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node test/index.js"
   },
